@@ -1,0 +1,16 @@
+# Maven / Java
+target/
+*.log
+*.class
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# App runtime data
+carehome.dat
